@@ -2,17 +2,17 @@
 
 ### 💻 DevOps Engineer | Cloud Enthusiast | Automation Expert 🚀
 
-I'm a seasoned DevOps Engineer with over 10 years of experience in building, automating, and optimizing mission-critical deployments in the cloud. I have a passion for continuous learning and problem-solving in areas like cloud infrastructure, CI/CD pipelines, and infrastructure as code.
+I'm a seasoned DevOps Engineer with over 6 years of experience in building, automating, and optimizing mission-critical deployments in the cloud. I have a passion for continuous learning and problem-solving in areas like cloud infrastructure, CI/CD pipelines, and infrastructure as code.
 
 ---
 
 ### 🛠 Technologies & Tools:
 
-- **Cloud Platforms:** AWS, GCP, Azure
+- **Cloud Platforms:** AWS
 - **Containerization & Orchestration:** Docker, Kubernetes, EKS, ECS
-- **CI/CD Tools:** Jenkins, CircleCI, GitHub Actions
+- **CI/CD Tools:** Jenkins, GitHub Actions
 - **Infrastructure as Code:** Terraform, CloudFormation
-- **Version Control:** Git, GitHub, GitLab
+- **Version Control:** Git, GitHub
 - **Scripting:** Bash, Python, Groovy
 - **Monitoring & Logging:** Prometheus, Grafana, CloudWatch, ELK Stack
 - **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB
@@ -23,15 +23,13 @@ I'm a seasoned DevOps Engineer with over 10 years of experience in building, aut
 
 - Advanced Kubernetes & Helm
 - Chaos Engineering
-- AWS Lambda & Serverless Architectures
 
 ---
 
 ### 💬 Let's Connect:
 
-- [LinkedIn](https://www.linkedin.com/in/abisola-adenuga)
-- [Twitter](https://twitter.com/yourhandle)
-- [Personal Website/Blog](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/abisola-adenuga-61332a64)
+
 
 ---
 
@@ -56,17 +54,3 @@ I'm always open to collaborating on interesting DevOps projects, especially in c
 
 ---
 ![adenugabi's Stats](https://github-readme-stats.vercel.app/api?username=adenugabi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-<!--
-**adenugabi/adenugabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
