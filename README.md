@@ -1,5 +1,11 @@
-## Hi there 👋
+# Hi there, I'm Abisola Tracy Adenuga! 👋
 
+### 💻 DevOps Engineer | Cloud Enthusiast | Automation Expert 🚀
+
+I'm a seasoned DevOps Engineer with over 6 years of experience in building, automating, and optimizing mission-critical deployments in the cloud. I have a passion for continuous learning and problem-solving in areas like cloud infrastructure, CI/CD pipelines, and infrastructure as code.
+
+---
+![adenugabi's Stats](https://github-readme-stats.vercel.app/api?username=adenugabi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <!--
 **adenugabi/adenugabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
